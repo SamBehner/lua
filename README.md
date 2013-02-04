@@ -26,3 +26,7 @@ Recommended reading order: from [mikemike](http://www.reddit.com/comments/63hth/
 
 If you're done before X-Mas and understood all of it, you're good. The
 information density of the code is rather high.
+
+* * * * *
+
+[Online Lua 5.2 source code browser](http://www.lua.org/source/5.2/)
